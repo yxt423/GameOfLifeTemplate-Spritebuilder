@@ -80,11 +80,6 @@
 		</dict>
 		<key>Sprites</key>
 		<dict/>
-		<key>ccbResources</key>
-		<dict>
-			<key>previewFolderHidden</key>
-			<true/>
-		</dict>
 		<key>ccbResources/ccbButtonHighlighted.png</key>
 		<dict>
 			<key>scaleFrom</key>
@@ -134,6 +129,11 @@
 			<key>tabletScale</key>
 			<integer>1</integer>
 		</dict>
+		<key>ccbResources/ccbResources</key>
+		<dict>
+			<key>previewFolderHidden</key>
+			<true/>
+		</dict>
 		<key>ccbResources/ccbSliderBgHighlighted.png</key>
 		<dict>
 			<key>scaleFrom</key>
@@ -164,8 +164,9 @@
 		</dict>
 	</dict>
 	<key>versionStr</key>
-	<string>Version: 1.2.1
-GitHub: dde98b0763
+	<string>revision : 10891b8575
+sku : default
+version : 1.4.0
 </string>
 </dict>
 </plist>
