@@ -10,9 +10,4 @@
 
 @interface MainScene : CCNode
 
-- (void)play;
-- (void)pause;
-- (void)step;
-
-
 @end
